@@ -1,0 +1,36 @@
+Player control interface over map
+
+
+
+Events engine
+-teleport
+-message
+-dialogue
+-trade/shop etc interface
+-allow one event to affect map/player/events
+
+
+
+Battle engine
+-support for multiple people each side
+-types of attacks
+
+
+
+Items/inventory
+
+
+
+Menu system
+
+
+
+Save/load
+
+
+
+loading map files/design map files
+
+
+
+GUI
