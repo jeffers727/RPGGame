@@ -10,14 +10,14 @@ package rpggame;
  */
 public class Map1 {
 
-    private MapTile[][] map;
+    private MapTiles[][] map;
 
     public Map1(int h, int w) {
-        map = new MapTile[h][w];
+        map = new MapTiles[h][w];
     }
 
     public void changeDimensions(int h, int w) {
-        map = new MapTile[h][w];
+        map = new MapTiles[h][w];
     }
 
     public int getHeight() {

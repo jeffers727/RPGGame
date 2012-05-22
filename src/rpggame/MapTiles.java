@@ -10,9 +10,10 @@ package rpggame;
  */
 import java.util.ArrayList;
 
-public class MapTile {
+public class MapTiles {
 
     private ArrayList tileObjects = new ArrayList();
+    private int tileIcon;
 
     public boolean moveInto() {
         boolean canMoveInto = true;

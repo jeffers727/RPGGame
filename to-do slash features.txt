@@ -8,6 +8,7 @@ Events engine
 -dialogue
 -trade/shop etc interface
 -allow one event to affect map/player/events
+-some sort of event scripter to allow multiple sequenced events
 
 
 
